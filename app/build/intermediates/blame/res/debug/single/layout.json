@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\android_github_project\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_progress.xml",
+        "source": "D:\\android_github_project\\Notifications1\\app\\src\\main\\res\\layout\\view_custom_progress.xml"
+    },
+    {
+        "merged": "D:\\android_github_project\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\android_github_project\\Notifications1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\android_github_project\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "D:\\android_github_project\\Notifications1\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "D:\\android_github_project\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "D:\\android_github_project\\Notifications1\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "D:\\android_github_project\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_button.xml",
+        "source": "D:\\android_github_project\\Notifications1\\app\\src\\main\\res\\layout\\view_custom_button.xml"
+    },
+    {
+        "merged": "D:\\android_github_project\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom.xml",
+        "source": "D:\\android_github_project\\Notifications1\\app\\src\\main\\res\\layout\\view_custom.xml"
+    }
+]
